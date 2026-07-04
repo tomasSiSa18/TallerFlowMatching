@@ -1,0 +1,14 @@
+[project]
+name = "mmlmonioria"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "matplotlib>=3.11.0",
+    "numpy>=2.4.6",
+    "torch>=2.12.1",
+    "torchdiffeq>=0.2.5",
+    "torchvision>=0.27.1",
+    "tqdm>=4.68.3",
+]
